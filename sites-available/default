@@ -1,5 +1,5 @@
 upstream application{
-                server opencart-app:80;
+                server opencart-service:80;
         }
 
 server {
